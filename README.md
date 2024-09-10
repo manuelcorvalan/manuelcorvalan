@@ -11,15 +11,15 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-</p>\
+</p>
 <h3>When I design software, I rely on</h3>
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-f7df1c?style=flat&logo=figma&logoColor=black" />
   <img alt="Miro" src="https://img.shields.io/badge/Miro-f7df1c?style=flat&logo=miro&logoColor=black" />  
 </p>
---- 
-🔭 I’m currently working on ...\
-📫 How to reach me: manuel.corvalan@gmail.com\
+
+🔭 I’m currently working on ... \
+📫 How to reach me: manuel.corvalan@gmail.com \
 ![](https://komarev.com/ghpvc/?username=manuelcorvalan&color=red&label=Views)
 
 <!--
