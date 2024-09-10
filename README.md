@@ -1,4 +1,5 @@
 ### Hi there I'm Manuel Corvalan Martinez 👋
+![](https://komarev.com/ghpvc/?username=manuelcorvalan&color=red&label=Views)
 ---
 <h3>When I code, I rely on</h3>
 <p>
@@ -20,7 +21,7 @@
 
 🔭 I’m currently working on ... \
 📫 How to reach me: manuel.corvalan@gmail.com \
-![](https://komarev.com/ghpvc/?username=manuelcorvalan&color=red&label=Views)
+
 
 <!--
 **manuelcorvalan/manuelcorvalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
