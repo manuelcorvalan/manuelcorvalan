@@ -19,7 +19,7 @@
   <img alt="Miro" src="https://img.shields.io/badge/Miro-f7df1c?style=flat&logo=miro&logoColor=black" />  
 </p>
 
-🔭 I am currently working on designing and implementing the architecture of an on-premise application that will allow loading and processing information from various georeferenced data sources.
+🔭 I am currently working on designing and implementing the architecture of an on-premise application that will allow loading and processing information from various georeferenced data sources. \
 📫 How to reach me: manuel.corvalan@gmail.com
 
 
