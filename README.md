@@ -12,6 +12,9 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-orange?style=flat&logo=Laravel&logoColor=ffffff">
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-grey?style=flat&logo=mariadb">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql&logoColor=ffffff">
 </p>
 <h3>When I design software, I rely on</h3>
 <p>
