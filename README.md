@@ -23,9 +23,9 @@
 </p>
 
 <p align="justify">
-  🔭 I am currently working on designing and implementing the architecture of an on-premise application that will allow loading and processing information from various georeferenced data sources. \
+  🔭 I am currently working on designing and implementing the architecture of an on-premise application that will allow loading and processing information from various georeferenced data sources.
 </p>
-\
+
 📫 How to reach me: manuel.corvalan@gmail.com
 
 
