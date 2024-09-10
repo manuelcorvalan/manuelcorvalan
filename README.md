@@ -14,8 +14,8 @@
 </p>\
 <h3>When I design software, I rely on</h3>
 <p>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-yellow?style=flat&logo=figma&logoColor=white" />
-  <img alt="Miro" src="https://img.shields.io/badge/Figma-yellow?style=flat&logo=miro&logoColor=white" />  
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-f7df1c?style=flat&logo=figma&logoColor=black" />
+  <img alt="Miro" src="https://img.shields.io/badge/Miro-f7df1c?style=flat&logo=miro&logoColor=black" />  
 </p>
 --- 
 🔭 I’m currently working on ...\
