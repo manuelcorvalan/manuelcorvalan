@@ -1,7 +1,7 @@
-### Hi there I'm Manuel Corvalan Martinez 👋
+## Hi there I'm Manuel Corvalan Martinez 👋
 ![](https://komarev.com/ghpvc/?username=manuelcorvalan&color=red&label=Views)
----
-<h3>When I code, I rely on</h3>
+
+<h2>When I code, I rely on</h2>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="VueJS" src="https://img.shields.io/badge/VueJS-Blue?style=flat-square&logo=vuedotjs&logoColor=4FC08D">
@@ -16,14 +16,15 @@
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-grey?style=flat&logo=mariadb">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql&logoColor=ffffff">
 </p>
-<h3>When I design software, I rely on</h3>
+<h2>When I design software, I rely on</h2>
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-f7df1c?style=flat&logo=figma&logoColor=black" />
   <img alt="Miro" src="https://img.shields.io/badge/Miro-f7df1c?style=flat&logo=miro&logoColor=black" />  
 </p>
 
+<h2>About me</h2>
 <p align="justify">
-  🔭 I am currently working on designing and implementing the architecture of an on-premise application that will allow loading and processing information from various georeferenced data sources.
+  🔭 Hi, I'm a computer engineer with 15 years of experience in technical leadership and management of software development projects, specialized in Full-Stack solutions and Agile methodologies (Kanban). I have experience in data analysis, systems integration (microservices, APIs) and DevOps. I have worked with multidisciplinary teams, optimize processes and deliver high-impact projects.
 </p>
 
 📫 How to reach me: manuel.corvalan@gmail.com
